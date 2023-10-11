@@ -1,0 +1,2 @@
+dynaconf==3.2.3
+gradio==3.47.1
