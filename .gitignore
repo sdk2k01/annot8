@@ -161,3 +161,4 @@ cython_debug/
 
 inputs/
 settings.yaml
+*.DS_Store*
